@@ -13,3 +13,11 @@ Direct-Ink-Writing (DIW) is an extrusion-based additive manufacturing method hea
 - Klipper
   - [Klipper Documentation](https://www.klipper3d.org/)
   - [Klipper Github Repo](https://github.com/Klipper3d/klipper/)
+- 3D printing motherboard
+  - [fysetc](https://wiki.fysetc.com/) 
+- orange pi
+  - [orangepi 3 lts](http://www.orangepi.cn/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-3-LTS.html)
+- coding tutorial
+  - [python](https://liaoxuefeng.com/books/python/introduction/index.html)
+  - [git](https://liaoxuefeng.com/books/git/introduction/index.html)
+ 
